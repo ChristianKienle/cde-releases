@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Core Data Editor</title>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Sun, 22 Aug 2021 14:56:54 +0200</pubDate>
+            <sparkle:minimumSystemVersion>11.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://christiankienle.github.io/cde-releases/files/Core%20Data%20Editor-1.0.2.zip" sparkle:version="3" sparkle:shortVersionString="1.0.2" length="10022174" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Wed, 25 Aug 2021 13:53:02 +0200</pubDate>
+            <sparkle:minimumSystemVersion>11.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://christiankienle.github.io/cde-releases/files/Core%20Data%20Editor-1.0.3.zip" sparkle:version="4" sparkle:shortVersionString="1.0.3" length="10022194" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
