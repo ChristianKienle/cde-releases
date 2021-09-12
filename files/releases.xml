@@ -80,5 +80,11 @@
             <sparkle:minimumSystemVersion>11.3</sparkle:minimumSystemVersion>
             <enclosure url="https://christiankienle.github.io/cde-releases/files/Core%20Data%20Editor-1.0.14.zip" sparkle:version="15" sparkle:shortVersionString="1.0.14" length="10090311" type="application/octet-stream"/>
         </item>
+        <item>
+            <title>1.0.15</title>
+            <pubDate>Sun, 12 Sep 2021 15:24:35 +0200</pubDate>
+            <sparkle:minimumSystemVersion>11.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://christiankienle.github.io/cde-releases/files/Core%20Data%20Editor-1.0.15.zip" sparkle:version="16" sparkle:shortVersionString="1.0.15" length="10090165" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
